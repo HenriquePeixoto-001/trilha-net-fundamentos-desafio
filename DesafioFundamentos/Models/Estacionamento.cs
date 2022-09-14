@@ -38,7 +38,6 @@ namespace DesafioFundamentos.Models
                 // *IMPLEMENTE AQUI*
                 int horas = int.Parse(Console.ReadLine());
                 decimal valorTotal = precoInicial + (precoPorHora * horas);
-
                 // TODO: Remover a placa digitada da lista de veículos
                 // *IMPLEMENTE AQUI*
                 
